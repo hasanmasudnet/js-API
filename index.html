@@ -1,5 +1,12 @@
 
 <div id="showtext"></div>
+<div>
+	<div><button onclick="document.getElementById('light').src='resources/pic_bulbon.gif'">Turn On</button></div>
+	<div><img id="light" src="resources/pic_bulboff.gif"></div>
+	<div><button onclick="document.getElementById('light').src='resources/pic_bulboff.gif'">Turn Off</button></div>
+</div>
+
+
 <script type="text/javascript">
 	document.getElementById('showtext').innerHTML = "Welcome to my Test"
 	console.log(document.getElementById('showtext').innerHTML);
