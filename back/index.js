@@ -1,3 +1,4 @@
+// https://www.youtube.com/watch?v=KGkiIBTq0y0
 // const chalk = require("chalk");
 
 /****  Section 1👉 we need to do it in console ****/
@@ -866,7 +867,7 @@
 
 
  
-// 6️⃣ Fat Arror Function 
+// 6️⃣ Fat Arror Function  
 
 // 👻 Normal Way of writing Function  
 
